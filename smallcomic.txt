@@ -376,3 +376,10 @@ https://www.yoshsaga.com/feed/atom/
 https://www.zombieranchcomic.com/comic/feed/
 https://xkcd.com/rss.xml
 https://yokokasquest.com/feed
+https://vucense.com/rss.xml
+https://vucense.com/rss/privacy.xml
+https://vucense.com/rss/ai.xml
+https://vucense.com/rss/reviews.xml
+https://vucense.com/rss/guides.xml
+https://vucense.com/rss/comparisons.xml
+https://vucense.com/rss/dev.xml
